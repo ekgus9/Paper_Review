@@ -78,7 +78,7 @@ pre-training 시 두 문장을 같이 넣어 두 문장이 이어지는 문장�
 
 
 
-![bert-input-representation.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ba3b81b0-a786-4b5a-b992-d8599b6b55f9/bert-input-representation.png)
+![image](https://user-images.githubusercontent.com/89879599/169760121-3b17e80a-e1b7-4e35-b956-cb263cf4a392.png)
 
 
 
