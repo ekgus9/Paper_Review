@@ -53,7 +53,7 @@ wiki 나 book data 를 pre-trained 한 데이터를 바탕으로, 특정 task �
 
 
 
-→ deep bidirectioal
+-> deep bidirectioal
 
 
 
